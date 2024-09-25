@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "albearoti-assesment-backend",
+  "name": "smoketrees",
   "builds": [
     {
       "src": "server.js",
